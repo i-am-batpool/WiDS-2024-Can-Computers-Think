@@ -12,6 +12,8 @@ This Winter in Data Science Project under the Analytics Club, IIT Bombay is bein
     - [Resources for Matplotlib](#resources-for-matplotlib)
     - [Combined Resources](#combined-resources)
 - [WEEK 1](#week-1)
+- [WEEK 2](#week-2)
+- [WEEK 3](#week-3)
 
 
 This project focuses on introducing you to the world of Reinforcement Learning by solving puzzles (and interacting with us....) in the most fun way possible!!!!
@@ -69,3 +71,18 @@ You're going to implement the greedy and $\epsilon$-greedy algorithms and observ
 
 Read the Chapter in Sutton and Barto and implement the algorithms in the [work_on_bandits.ipynb](./Week%201/work_on_bandits.ipynb) file
 
+## Week 2:
+
+- The assignment in `Assignment_2.ipynb` is about simple modelling of some basic RL environment which is to help you understand the basic working of MDPs. Note that most problems we work with using RL always have a MDP working under the hood, which we may or may not(most of the times) know. We will explore this in later weeks
+
+- The second is an **optional** reading assignment, [here](./Week%202/Markov_chains.pdf) which you can read if you intreseted in understanding and modelling of **Markov chains** in detail. Note that it requires some basic understanding of **probability, expected value and ranodom variables** so its ok if you don't understand in the beginning. Although it is important that you google these terms to get a baisc idea if you don't know them , as it will be used frequently in RL.
+
+## Week 3:
+
+- Do the weeks matter anymore?
+
+- The assignments in the folders `Assignments` and `More Assignments` are to be done in this week. The first one is a simple DP problem and the second one is a simple MDP problem.
+
+- Make sure you have fun while doing them and don't restrict yourself to just solving the problem but try exploring the problem and the solution in depth.
+
+- I'm sad nobody found the Miguel Morales reference! :(
